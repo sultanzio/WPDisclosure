@@ -1,4 +1,4 @@
-# WPDisclosure
+# WPDisclosure Mass Target
 
 Wordpress Information Disclosure Mass target
 
